@@ -1,0 +1,9 @@
+D:\Users\Turbo\Documents\Visual Studio 2017\Projects\CroweTest\CrowDataAccess\bin\Debug\netstandard2.0\CroweDataAccess.deps.json
+D:\Users\Turbo\Documents\Visual Studio 2017\Projects\CroweTest\CrowDataAccess\bin\Debug\netstandard2.0\CroweDataAccess.dll
+D:\Users\Turbo\Documents\Visual Studio 2017\Projects\CroweTest\CrowDataAccess\bin\Debug\netstandard2.0\CroweDataAccess.pdb
+D:\Users\Turbo\Documents\Visual Studio 2017\Projects\CroweTest\CrowDataAccess\obj\Debug\netstandard2.0\CroweDataAccess.csprojResolveAssemblyReference.cache
+D:\Users\Turbo\Documents\Visual Studio 2017\Projects\CroweTest\CrowDataAccess\obj\Debug\netstandard2.0\CroweDataAccess.csproj.CoreCompileInputs.cache
+D:\Users\Turbo\Documents\Visual Studio 2017\Projects\CroweTest\CrowDataAccess\obj\Debug\netstandard2.0\CroweDataAccess.AssemblyInfoInputs.cache
+D:\Users\Turbo\Documents\Visual Studio 2017\Projects\CroweTest\CrowDataAccess\obj\Debug\netstandard2.0\CroweDataAccess.AssemblyInfo.cs
+D:\Users\Turbo\Documents\Visual Studio 2017\Projects\CroweTest\CrowDataAccess\obj\Debug\netstandard2.0\CroweDataAccess.dll
+D:\Users\Turbo\Documents\Visual Studio 2017\Projects\CroweTest\CrowDataAccess\obj\Debug\netstandard2.0\CroweDataAccess.pdb
